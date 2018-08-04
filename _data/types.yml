@@ -1,0 +1,9 @@
+---
+- name: Machine Learning
+  sub: ML
+- name: Computational Linguistics
+  sub: CL
+- name: Natural Language Processing
+  sub: NLP
+- name: Data Mining, Web, Social Media
+  sub: DM
